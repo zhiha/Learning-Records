@@ -57,6 +57,13 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
+  custom_dir: overrides
+
+markdown_extensions:
+  - attr_list
+  - md_in_html 
+
+
 plugins:
   - i18n:
       default_language: zh
@@ -65,15 +72,10 @@ plugins:
         zh:
           name: 简体中文
           build: true
-  - search:
-      lang: ja
+
   - git-revision-date-localized
 
 
-
-markdown_extensions:
-  - attr_list
-  - md_in_html 
 
 nav:
   - 前言: "index.md"
@@ -95,6 +97,8 @@ nav:
     - FPGA: "通信/FPGA.md"
   - 机械:
     - 机械原理: "机械/机械原理.md"
+  - 自动化:
+    - 自动控制: "自动化/自动控制.md"
   - 项目:
     - 超声波传感器: "项目/超声波传感器.md"
   - 日志:
