@@ -4,13 +4,13 @@
  * @Author: ZHIHA
  * @Date: 2022-11-12 11:49:56
  * @LastEditors: ZHIHA
- * @LastEditTime: 2022-11-12 12:07:01
+ * @LastEditTime: 2022-11-12 12:23:53
 -->
 # Markdown
 
 ## 软件
 
-[Marktext](https://github.com/marktext/marktext)极简方便。
+推荐一款：[Marktext](https://github.com/marktext/marktext)极简便捷。
 
 
 ## 表情符号
