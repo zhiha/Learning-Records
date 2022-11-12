@@ -1,0 +1,82 @@
+site_name: 学习记录
+site_url: https://www.zhiweiyao.com
+site_author: ZHIHA
+
+site_description: >-
+  学习记录
+
+repo_name: learning-records
+repo_url: https://github.com/zhiha/learning-records
+
+copyright: Copyright &copy; 2021-present <a href="https://github.com/zhiha" target="_blank" rel="noopener noreferrer">ZHIHA</a>
+
+
+theme:
+  name: material
+  language: zh
+  static_templates:
+    - 404.html
+  include_search_page: false
+  search_index_only: true
+
+  features:
+    - header.autohide
+    # - navigation.instant
+    # - navigation.expand
+    # - navigation.sections
+    - navigation.tracking
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    # - navigation.indexes
+    - search.highlight
+    - search.share
+    - search.suggest
+    # - toc.integrate
+    - content.code.annotate
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - i18n:
+      default_language: zh
+      material_alternate: true
+      languages:
+        zh:
+          name: 简体中文
+          build: true
+  - search:
+      lang: ja
+  - git-revision-date-localized
+
+
+
+markdown_extensions:
+  - attr_list
+  - md_in_html 
+
+nav:
+  - 前言: "index.md"
+  - 学习路线: "学习路线.md"
+  - 必学工具:
+    - 翻墙: "必学工具/翻墙.md"
