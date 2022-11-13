@@ -76,7 +76,6 @@ plugins:
   - git-revision-date-localized
 
 
-
 nav:
   - 前言: "index.md"
   - 学习路线: "学习路线.md"
@@ -86,6 +85,7 @@ nav:
     - Markdown: "必学工具/Markdown.md"
     - Anaconda: "必学工具/Anaconda.md"
   - 数学基础:
+    - 微积分: "数学基础/微积分.md"
     - 线性代数: "数学基础/线性代数.md"
     - 矩阵论: "数学基础/矩阵论.md"
   - 数学进阶:
@@ -98,14 +98,22 @@ nav:
     - Iain Explains Signals, Systems, and Digital Comms: "通信/Iain Explains Signals, Systems, and Digital Comms.md"
   - 机械:
     - 机械原理: "机械/机械原理.md"
+    - Solidworks: "机械/Solidworks.md"
   - 自动化:
     - 自动控制: "自动化/自动控制.md"
   - 电路:
-    - FPGA: "电路/FPGA.md"
-    - 单片机: "电路/单片机.md"
-    - PCB设计: "电路/PCB设计.md"
+    - 模拟电路: "电路/模拟电路.md"
+  - FPGA:
+    - Spartan: "FPGA/Spartan.md"
+  - MCU:
+    - Rk3308: "MCU/RK3308.md" 
+    - STM32: "MCU/STM32.md"
+    - C51: "MCU/C51.md"
+  - PCB: 
+    - 嘉立创: "PCB/嘉立创.md"
   - 项目:
     - 超声波传感器: "项目/超声波传感器.md"
   - PCV:  "简历/PCV.md"
   - 日志:
     - 2022-11-12: "日志/2022-11-12.md"
+    - 2022-11-13: "日志/2022-11-13.md"
