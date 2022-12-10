@@ -92,7 +92,10 @@ nav:
     - 拓扑几何: "数学进阶/拓扑几何.md"
   - 计算机:
     - 编程:
-      - Java: "计算机/编程/Java.md"
+      - Java: "计算机/编程/Language.md"
+      - MIT-Missing-Semester: "计算机/编程/MIT-Missing-Semester.md"
+      - "Harvard CS50: This is CS50x": "计算机/编程/CS50x.md"
+      
   - 通信:
     - 通信原理: "通信/通信原理.md"
     - Iain Explains Signals, Systems, and Digital Comms: "通信/Iain Explains Signals, Systems, and Digital Comms.md"
@@ -106,9 +109,11 @@ nav:
   - FPGA:
     - Spartan: "FPGA/Spartan.md"
   - MCU:
-    - Rk3308: "MCU/RK3308.md" 
     - STM32: "MCU/STM32.md"
     - C51: "MCU/C51.md"
+  - MPU:
+    - RK3308: "MPU/rk3308.md" 
+    - 驱动开发: "MPU/驱动开发.md"    
   - PCB: 
     - 嘉立创: "PCB/嘉立创.md"
   - 项目:
