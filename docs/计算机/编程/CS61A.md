@@ -4,7 +4,7 @@
  * @Author: ZHIHA
  * @Date: 2022-12-11 12:31:50
  * @LastEditors: ZHIHA
- * @LastEditTime: 2022-12-12 16:59:05
+ * @LastEditTime: 2022-12-12 18:28:45
 -->
 
 # CS61A: Structure and Interpretation of Computer Programs
@@ -19,7 +19,7 @@
 
 - 课程难度：🌟🌟🌟
 
-预计学时：50 小时
+- 预计学时：50 小时
 
 伯克利 CS61 系列的第一门课程，也是我的 Python 入门课。
 
