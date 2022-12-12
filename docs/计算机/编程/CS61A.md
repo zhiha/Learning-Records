@@ -4,7 +4,7 @@
  * @Author: ZHIHA
  * @Date: 2022-12-11 12:31:50
  * @LastEditors: ZHIHA
- * @LastEditTime: 2022-12-12 16:55:06
+ * @LastEditTime: 2022-12-12 16:59:05
 -->
 
 # CS61A: Structure and Interpretation of Computer Programs
@@ -36,11 +36,8 @@ CS61 系列是伯克利 CS 专业的入门课，其中：
 
 ## 课程资源
 
-- 课程网站：https://inst.eecs.berkeley.edu/~cs61a/su20/
+- 课程网站：[https://inst.eecs.berkeley.edu/~cs61a/su20/](https://inst.eecs.berkeley.edu/~cs61a/su20/)
 - 课程视频: 参见课程网站链接
-- 课程教材：http://composingprograms.com/
+- 课程教材：[http://composingprograms.com/](http://composingprograms.com/)
 - 课程作业：课程网站会有每个作业对应的文档链接以及代码框架的下载链接。
 
-## 资源汇总
-
-@PKUFlyingPig 在学习这门课中用到的所有资源和作业实现都汇总在 PKUFlyingPig/CS61A - GitHub 中。
