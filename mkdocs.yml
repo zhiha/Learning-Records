@@ -88,15 +88,15 @@ nav:
     - 微积分: "数学基础/微积分.md"
     - 线性代数: "数学基础/线性代数.md"
     - 矩阵论: "数学基础/矩阵论.md"
+    - 信息论: "数学基础/信息论.md"
   - 数学进阶:
-    - 拓扑几何: "数学进阶/拓扑几何.md"
+    - "UCB CS70: discrete Math and probability theory": "数学进阶/离散数学和概率论.md"
   - 计算机:
     - 编程:
       - Program Language: "计算机/编程/Language.md"
       - Missing-Semester: "计算机/编程/Missing-Semester.md"
       - "Harvard CS50: This is CS50x": "计算机/编程/CS50x.md"
       - "UCB CS61A: Structure and Interpretation of Computer Programs": "计算机/编程/CS61A.md"
-      
   - 通信:
     - 通信原理: "通信/通信原理.md"
     - Iain Explains Signals, Systems, and Digital Comms: "通信/Iain Explains Signals, Systems, and Digital Comms.md"
